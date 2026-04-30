@@ -20,6 +20,7 @@ import ProcessPhotosScreen from "./src/screens/ProcessPhotosScreen";
 import { StorageService } from "./src/services/storage";
 import { I18nProvider } from "./src/i18n/i18nContext";
 
+
 export type RootStackParamList = {
   MainTabs: undefined;
   Record: undefined;
